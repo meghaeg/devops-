@@ -149,12 +149,13 @@ h2::after {
 
 /* ================= FOOTER ================= */
 footer {
-    background: linear-gradient(90deg, #006341, #FFCC29);
+    background-color: #006341; /* Australian cricket green */
     color: white;
     text-align: center;
     padding: 20px;
     font-weight: 600;
 }
+
 
 /* ================= RESPONSIVE ================= */
 @media (max-width: 768px) {
